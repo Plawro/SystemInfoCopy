@@ -1,5 +1,5 @@
 @echo off
-title SIC-Fast is running... [Setting up]
+title SIC-Fast (by Plawro) is running... [Setting up]
 cd 
 set /a startTime=%TIME%
 color 03
